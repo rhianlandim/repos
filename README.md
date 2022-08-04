@@ -1,6 +1,6 @@
  # repos
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/108150838/179555201-c58c0843-0262-40ae-bab6-0d3389216991.png" width="400" alt="logo" />
+  <img src="https://user-images.githubusercontent.com/108150838/182971855-3d73c3fb-7b9b-4574-ab01-7fdfb649dd3f.png" width="400" alt="logo" />
 </p>
 <p align="center">Listing repositories from git using API().</p>
  <hr />
